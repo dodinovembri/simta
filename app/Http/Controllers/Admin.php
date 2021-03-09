@@ -13,7 +13,7 @@ use App\Models\Ta_2_history;
 use App\Models\Penguji_ta_1;
 use App\Models\Penguji_ta_2;
 use App\Models\Mhs_topik_ta;
-use App\Models\bidang_ilmu	;
+use App\Models\Bidang_ilmu	;
 use App\Models\Dosen_pembimbing;
 use App\Models\Ceklis_syarat_ta_1;
 use App\Models\Ceklis_syarat_ta_2;
